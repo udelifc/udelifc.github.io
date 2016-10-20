@@ -1,5 +1,10 @@
+Website for the University of Delaware's Interfraternity Council.
 
-TITLE: 
+Web Programmer: Joshua Streger https://github.com/jdstregz
+
+CREDITS FOR TEMPLATE:
+
+TEMPLATE TITLE: 
 Glow - 100% Fully Responsive Free HTML5 Bootstrap Template
 
 AUTHOR:
